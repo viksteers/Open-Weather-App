@@ -14,3 +14,4 @@ This is a cross-platform application using Xamarin helping it interact with an A
 <p>The current weather of a given city will be displayed to the user</p>
 
 <p>Results:</p>
+<p><img src="OpenWeather.png"></p>
