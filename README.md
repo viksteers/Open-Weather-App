@@ -1,5 +1,5 @@
 # Open-Weather-App
-This is a cross-platform application using Xamarin helping it interact with an API. Used OpenWeatherMap API
+This is a cross-platform application using Xamarin.Forms to help it interact with an API. Used OpenWeatherMap API. The program is written in C#
 
 <p>INFO 2200 - Computer Programming II</p>
 
