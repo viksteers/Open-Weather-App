@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="OpenWeather.MainPage">
+
+    <StackLayout>
+        <Label Text="Welcome to Vikki's Weather App!"
+           TextColor="Pink"
+           HorizontalOptions="Center"
+           HorizontalTextAlignment="Center"
+           VerticalOptions="CenterAndExpand"
+            FontSize="30"/>
+        <Entry x:Name="EntryZipCode"
+               Placeholder="Enter Zip Code"
+               VerticalOptions="CenterAndExpand"
+               HorizontalTextAlignment="Center"
+               FontSize="25"
+               Margin="10"/>
+        <Button x:Name="BtnShowTemp"
+                VerticalOptions="CenterAndExpand"
+                Padding="30"
+                BackgroundColor="Pink"
+                Text="Show Current Temp"
+                Margin="10"
+                Clicked="BtnShowTemp_Clicked"/>
+    </StackLayout>
+
+</ContentPage>

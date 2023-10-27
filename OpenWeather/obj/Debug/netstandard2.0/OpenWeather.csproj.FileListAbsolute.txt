@@ -1,0 +1,16 @@
+C:\Users\vikki\source\repos\OpenWeather\OpenWeather\OpenWeather\bin\Debug\netstandard2.0\OpenWeather.deps.json
+C:\Users\vikki\source\repos\OpenWeather\OpenWeather\OpenWeather\bin\Debug\netstandard2.0\OpenWeather.dll
+C:\Users\vikki\source\repos\OpenWeather\OpenWeather\OpenWeather\bin\Debug\netstandard2.0\ref\OpenWeather.dll
+C:\Users\vikki\source\repos\OpenWeather\OpenWeather\OpenWeather\bin\Debug\netstandard2.0\OpenWeather.pdb
+C:\Users\vikki\source\repos\OpenWeather\OpenWeather\OpenWeather\obj\Debug\netstandard2.0\OpenWeather.csproj.AssemblyReference.cache
+C:\Users\vikki\source\repos\OpenWeather\OpenWeather\OpenWeather\obj\Debug\netstandard2.0\OpenWeather.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikki\source\repos\OpenWeather\OpenWeather\OpenWeather\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\vikki\source\repos\OpenWeather\OpenWeather\OpenWeather\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\vikki\source\repos\OpenWeather\OpenWeather\OpenWeather\obj\Debug\netstandard2.0\OpenWeather.AssemblyInfoInputs.cache
+C:\Users\vikki\source\repos\OpenWeather\OpenWeather\OpenWeather\obj\Debug\netstandard2.0\OpenWeather.AssemblyInfo.cs
+C:\Users\vikki\source\repos\OpenWeather\OpenWeather\OpenWeather\obj\Debug\netstandard2.0\OpenWeather.csproj.CoreCompileInputs.cache
+C:\Users\vikki\source\repos\OpenWeather\OpenWeather\OpenWeather\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\vikki\source\repos\OpenWeather\OpenWeather\OpenWeather\obj\Debug\netstandard2.0\OpenWeather.dll
+C:\Users\vikki\source\repos\OpenWeather\OpenWeather\OpenWeather\obj\Debug\netstandard2.0\ref\OpenWeather.dll
+C:\Users\vikki\source\repos\OpenWeather\OpenWeather\OpenWeather\obj\Debug\netstandard2.0\OpenWeather.pdb
+C:\Users\vikki\source\repos\OpenWeather\OpenWeather\OpenWeather\obj\Debug\netstandard2.0\WeatherPage.xaml.g.cs
